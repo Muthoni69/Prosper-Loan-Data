@@ -4,7 +4,7 @@
 
 ## Dataset
 
-The prosperLoanData dataset contains 113,937 loans with 81 variables on each loan, including loan amount,borrower rate, current loan status, borrower income, Interest and Fees rates and many others. The datset can be found here https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://s3.amazonaws.com/udacity-hosted-downloads/ud651/prosperLoanData.csv%26amp;sa%3DD%26amp;ust%3D1581581520570000&sa=D&source=editors&ust=1660058370050330&usg=AOvVaw2kPMt1ZO1DfZ8Q7YLhko_E
+The prosperLoanData dataset contains 113,937 loans with 81 variables on each loan, including loan amount,borrower rate, current loan status, borrower income, Interest and Fees rates and many others. The dataset can be found here https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://s3.amazonaws.com/udacity-hosted-downloads/ud651/prosperLoanData.csv%26amp;sa%3DD%26amp;ust%3D1581581520570000&sa=D&source=editors&ust=1660058370050330&usg=AOvVaw2kPMt1ZO1DfZ8Q7YLhko_E
 
 
 ## Summary of Findings
@@ -23,5 +23,5 @@ The prosperLoanData dataset contains 113,937 loans with 81 variables on each loa
 
 ## Key Insights for Presentation
 
-For the presentation, I focus on on how the loans given depend on the individuals' Monthly Incomes and how the Monthly Incomes affect the Monthly Loan Payments. Later I show the loan statuses of different categories of individuals based on the employment status. 
+For the presentation, I focus on how the loans given depend on the individuals' Monthly Incomes and how that affects the Monthly Loan Payments. Later I show the loan statuses of different categories of individuals based on the employment status. 
 Finally I'll show how all these variables relate to each other.
